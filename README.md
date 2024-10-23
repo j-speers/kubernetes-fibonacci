@@ -13,6 +13,3 @@ This repository demonstrates a Fibonacci number generator running in a Kubernete
 1. Clone the repository:
    ```bash
    git clone https://github.com/j-speers/kubernetes-fibonacci.git
-2: Deploy the app:
-   ```bash
-   kubectl apply -f deployment.yaml
